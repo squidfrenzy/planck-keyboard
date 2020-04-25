@@ -1,2 +1,2 @@
 # preonic-keyboard
-Files for my Preonic keyboard (5x12)
+Files for my Planck keyboard (4x12)
